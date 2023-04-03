@@ -2,10 +2,11 @@
 MYSQL
 
 GROUP AI
-Saloni Sandish Salian 210732438
-Fiona Akyiaa Ampofo 200240338
-Maithilii Muthal Puredath 200178145
-Brinda Pragashkumar 210365409
+Saloni S.S.
+Fiona A.A.
+Maithilii M.P.
+Brinda P. 
+
 */
 
 
